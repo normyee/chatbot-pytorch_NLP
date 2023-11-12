@@ -5,9 +5,11 @@
 - This project implements a ChatBot using a neural network in Python, leveraging Natural Language Processing (NLP) techniques, Bag of Words model, and preprocessing methods like tokenization and stemming.
 
 ## Technologies Used
-NLTK: Natural Language Toolkit for various NLP tasks.
-PyTorch: Deep learning library for building and training neural networks.
-NumPy: Fundamental package for scientific computing with Python.
+- NLTK: Natural Language Toolkit for various NLP tasks.
+  
+- PyTorch: Deep learning library for building and training neural networks.
+  
+- NumPy: Fundamental package for scientific computing with Python.
 
 ## Project Structure
 - `train.py`: Python script for training the neural network with the provided data.
